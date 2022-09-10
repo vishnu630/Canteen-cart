@@ -1,4 +1,4 @@
-# Shopping-cart
+# Canteen-cart
 #run the code 
 npm install
 #to start
